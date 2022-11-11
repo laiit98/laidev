@@ -69,7 +69,7 @@ body {
   font-size: 2.5em;
   margin-top: -0.6em;
   color: white;
- text-shadow: 4px 4px 0px #d5d5d5, 7px 7px 0px rgba(0, 0, 0, 0.2), 0 0 0.2em rgb(255, 0, 0), 0 0 0.2em rgb(255, 0, 0),0 0 0.2em rgb(255, 2, 2);
+ text-shadow: 0 0 0.05em #fff, 0 0 0.2em #fe05e1, 0 0 0.3em #fe05e1;
   transform: rotate(-7deg);
    z-index:1000
 }
